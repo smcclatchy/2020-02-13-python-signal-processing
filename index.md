@@ -6,10 +6,10 @@ country: "us"
 language: "en"
 latitude: "41.732416"
 longitude: "-72.793328"
-humandate: "Weekly from Feb 13-27, 2020" 
+humandate: "Weekly from Feb 11-25, 2020" 
 humantime: "1:00 pm - 3:00 pm"
-startdate: 2020-02-13
-enddate: 2020-02-27
+startdate: 2020-02-11
+enddate: 2020-02-25
 instructor: ["Dave Mellert", "Erick Ratamero"]
 helper: [""]  
 email: ["susan.mcclatchy@jax.org"]
