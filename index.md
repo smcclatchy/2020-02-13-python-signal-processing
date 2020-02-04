@@ -11,7 +11,7 @@ humantime: "1:00 pm - 3:00 pm"
 startdate: 2020-02-11
 enddate: 2020-02-25
 instructor: ["Dave Mellert", "Erick Ratamero"]
-helper: [""]  
+helper: ["Pariksheet Nanda"]  
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
