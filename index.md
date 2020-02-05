@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "The Jackson Laboratory for Genomic Medicine"
-address: "10 Discovery Drive, Farmington, Connecticut"
+address: "Room 4320, 10 Discovery Drive, Farmington, Connecticut"
 country: "us"
 language: "en"
 latitude: "41.732416"
