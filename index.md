@@ -255,7 +255,7 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
-
+See specific setup instructions for this workshop in the <a href = "https://github.com/TheJacksonLaboratory/images-as-signals">Github repository</a>.
 <p>
   To participate in a
   {% if site.carpentry == "swc" %}
