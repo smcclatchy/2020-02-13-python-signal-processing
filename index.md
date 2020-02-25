@@ -206,6 +206,9 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
+<h2 id="schedule">Surveys</h2>
+Please complete this brief <a href="https://www.surveymonkey.com/r/signal-proc">post-workshop survey</a> 
+to provide feedback to improve this course.
 <hr/>
 
 
